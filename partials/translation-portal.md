@@ -21,6 +21,12 @@ To translate a file do the following:
      :::
 4. Click **Translate**. For entered or pasted texts, translation starts at about 2000ms after the last entry.
 
+For more information about subscription plans, users can reach out to [hello@inten.to](mailto:hello@inten.to). For more information about smart routing, see [Intento Smart Routing](smart-routing).
+
+### Example Screnshots
+
+The following are example screenshots of the Translation Portal:
+
 ![Empty portal](assets/20250117_120046_Monosnap_Translation+Portal+2025-01-17+11-53-04.png)
 
 Empty translation portal. Write, paste text, or upload a file to begin translating.
@@ -33,4 +39,3 @@ Translation with entered text.
 
 Previously translated files can be downloaded from the Translated files section.
 
-For more information about subscription plans, users can reach out to [hello@inten.to](mailto:hello@inten.to). For more information about smart routing, see [Intento Smart Routing](smart-routing).

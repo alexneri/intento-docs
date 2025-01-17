@@ -17,16 +17,18 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Intento docs',
         items: [
-          { text: 'Translation Portal', link: '/translation-portal' }
+          { text: 'Translation Portal', link: '/translation-portal' },
+          { text: 'Intento Smart Routing', link: '/smart-routing' },
+          { text: 'Domain-Specific Routing', link: '/domain-specific-routing' }
         ]
       }
     ],
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2023-present Alex Neri | Crossebell | Crosse_'
+      copyright: 'Alex Neri | Crossebell | Crosse_'
     },
 
     socialLinks: [

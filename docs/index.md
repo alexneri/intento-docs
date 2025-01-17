@@ -4,15 +4,12 @@ layout: home
 
 hero:
   name: "Intento Docs"
-  text: "Site collection for Intento Help Docs"
-  tagline: My great project tagline
+  text: "New and rewritten docs for Intento"
+  tagline: Site collection for Intento Help Docs
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Translation Portal
+      link: /translation-portal
 
 features:
   - title: Feature A
